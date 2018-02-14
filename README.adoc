@@ -2,6 +2,8 @@
 :linkcss:
 :imagesdir: ./images
 
+= P7-HANDSON-LABS-2
+
 = CodeSuite - Continuous Deployment Reference Architecture for Kubernetes
 
 The CodeSuite Continuous Deployment reference architecture demonstrates how to achieve continuous
